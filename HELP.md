@@ -4,7 +4,7 @@ Application is already setup, you dont need to do anything, just issue
 
 mvn clean install
 
-, and console output will show this message.
+, from the terminal and it will show this message.
 
 Also, if you run application, the console output will show same message.
 
